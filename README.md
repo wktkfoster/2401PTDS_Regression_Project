@@ -1,5 +1,11 @@
 # 2401FTDS_Regression_Project
 
+![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+
+<div id="main image" align="center">
+  <img src="https://github.com/marcmarais/2401ftds_python/blob/main/Webinar_Notebooks/Explore_image.jpeg" width="500" height="300" alt=""/>
+</div>
+
 ## Table of contents
 * [1. Project Overview](#project-description)
 * [2. Dataset](#dataset)
