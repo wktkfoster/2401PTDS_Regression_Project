@@ -1,4 +1,4 @@
-# 2401FTDS_Regression_Project
+# 2401PTDS_Regression_Project
 
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
@@ -92,10 +92,9 @@ pip install -r requirements.txt
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Marc Marais](https://github.com/marcmarais)                                                | mmarias@sandtech.com
-| [James Beta](https://github.com/James-Beta)                                                                                  | jbeta@sandtech.com
-| [Oladare Adekunle](https://github.com/DareSandtech)                                                                            | oadekunle@sandtech.com
-| [Ereshia Gabier](https://github.com/ereshia)                                                | egabier@sandtech.com
+| [Jana Liebenberg-Fouche](https://github.com/Jana-Liebenberg)                                | jliebenberg-fouche@sandtech.com
+| [Edmund Dotsey](https://github.com/Edotsey)                                                 | edotsey@sandtech.com
+| [Farayi Myambo](https://github.com/Farayi-Explore)                                          | fmyambo@sandtech.com
 
 
 
