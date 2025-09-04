@@ -92,9 +92,9 @@ pip install -r requirements.txt
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Jana Liebenberg-Fouche](https://github.com/Jana-Liebenberg)                                | jliebenberg-fouche@sandtech.com
-| [Edmund Dotsey](https://github.com/Edotsey)                                                 | edotsey@sandtech.com
-| [Farayi Myambo](https://github.com/Farayi-Explore)                                          | fmyambo@sandtech.com
+| [Stephanie Austin](https://github.com/saustin12)                                | stephanie.austin@ninetyone.com
+| [Willie Foster](https://github.com/wktkfoster)                                                 | Willie.Foster@absa.africa
+
 
 
 
